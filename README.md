@@ -4,14 +4,19 @@
 
 0.- HTTPS SUPPORT ------------------------------------------> DONE!
 
-1.- Create, update, get and delete USERS -------------------> DONE!
+1.- USERS CRUD ---------------------------------------------> DONE!
 
-                    BONUS: Should generate a mailing event for user activation.
+                   ## BONUS: Should generate a mailing event for user activation.
 
-2.- Create, update, and get TOKENS -------------------------> DONE!
+2.- TOKENS CRUD --------------------------------------------> DONE!
 
-3. Create DISHES:   Should require validation. (valid session)
-                    Should include user info.
+3.  MEALS CRUD:     Should require validation. (valid session)
+                    Should include user info.  -------------> DONE!
+
+        A.- LIST MEALS
+
+                    ##Background workers: Should check for expired meals and purge collection.
+
 
 4.- Create CARTS:   Should require validation. (valid session)
                     Should include user info.
